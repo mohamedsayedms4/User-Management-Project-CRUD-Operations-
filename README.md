@@ -1,4 +1,3 @@
-Here's a sample `README.md` file in English for your GitHub project:
 
 ---
 
