@@ -1,0 +1,5 @@
+com\xadmin\usermanagement\model\User.class
+com\mycompany\mavenproject2\resources\JakartaEE10Resource.class
+com\xadmin\usermanagement\dao\USerDAO.class
+com\mycompany\mavenproject2\JakartaRestConfiguration.class
+com\xadmin\usermanagement\web\UserServlet.class
